@@ -1,0 +1,14 @@
+[
+  {
+    "payer": "BCBS",
+    "rules": [
+      "14.3.c"
+    ]
+  },
+  {
+    "payer": "AETNA",
+    "rules": [
+      "A1.2"
+    ]
+  }
+]
